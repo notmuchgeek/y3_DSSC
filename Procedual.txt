@@ -1,8 +1,8 @@
 8 Nov
 1. prepare natural dyes for DSSC with Turmeric, beetroot, blueberries 
 2. Dilute the solution to get a similar concentration (according to the transparency) as Z907 provided
-3. [Spectra] Measure the absorption spectrum for the clean FTO glass with TiO2
-4. [Spectra] Measure the absorption spectra for the natural dyes
+3. [Spectrum] Measure the absorption spectrum for the clean FTO glass with TiO2
+4. [4*Spectra] Measure the absorption spectra for the natural dyes
 5. Cleam all the FTO glass with TiO2 with Propanol and left them in the oven to 450C for 10 min
 6. Allow the glasses cool to ~80C
 7. Transfer these glasses to dye solutions (8 Nov, 4.00PM)
@@ -24,3 +24,9 @@
 - potimum power output
 - power coversion efficiency
 -fill factor
+
+-Effiency change with time??
+6. Measure Isc with illumination wavelength for ref. cell
+7. Calculate the current for my cells and measure with propert picoammeter again.
+
+8. 
