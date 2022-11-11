@@ -11,8 +11,19 @@
 
 
 11 Nov
+[Measure] Spectra for dye solutions and films
+A: Compare between different dyes
+B: Compare with and without dyes
+C: Relationship between the Isc with illumination intensity (photocurrent action spectrum)
+---------------------
 1. Make sure the deposited films stored properly in the dye solution or in propylene carbonate
 2. [2*Spectra] Measure the spectrum for dye solution and the film. (Use the ref cell as an example) Take one rinsed and counter electrodes and place both in the sample holder.
+
+2.2. [New Set] Repeat I-V curve measure without dye
+- if the output is stable
+- if the unstablility related to light intensity
+- will the curve the same as the one adding the dye
+
 3. Add one or two iodide/iodine electrolyte into the cell, add more when dried out
 4. Make sure the electric shorts are avoided
 5. [I-V curve] Measure the I-V curve with the LabView for a defined light intensity, after a certain period of time. Ensure the reference cell is evenly illuminated and centred in the middle of the light beam.
@@ -29,4 +40,4 @@
 6. Measure Isc with illumination wavelength for ref. cell
 7. Calculate the current for my cells and measure with propert picoammeter again.
 
-8. 
+
