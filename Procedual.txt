@@ -39,5 +39,3 @@ C: Relationship between the Isc with illumination intensity (photocurrent action
 -Effiency change with time??
 6. Measure Isc with illumination wavelength for ref. cell
 7. Calculate the current for my cells and measure with propert picoammeter again.
-
-
